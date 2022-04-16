@@ -1,0 +1,1 @@
+# Wipy-3.0-connect-to-wifi-with-static-IP-address
